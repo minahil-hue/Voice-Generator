@@ -1,1 +1,9 @@
 
+streamlit
+transformers
+torch
+torchaudio
+soundfile
+streamlit-mic-recorder
+numpy
+scipy
